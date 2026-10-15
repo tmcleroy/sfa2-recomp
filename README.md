@@ -45,6 +45,9 @@ emulator ([how it works](docs/PORT.md)).
 - The board's operator settings (difficulty, damage level, timer speed, game speed, rounds and the
   rest) on the Board page (launcher's Features, in-game menu), each as the board is set unless you
   choose; or the game's own test menu from the in-game menu.
+- **Straight to the title** (on the Game page): at a start or a reset, everything before the title (the
+  board's start, the warning, the notices and the introduction) runs unseen; with a coin in or free play, the
+  picture comes back with the title that asks for Start.
 - A search box on the launcher's Features page (Ctrl+F or Cmd+F) finds any feature by a word in its
   name, description or choices.
 - Your ROM set is only ever read. Settings, save states and the board's settings memory go in your own user
