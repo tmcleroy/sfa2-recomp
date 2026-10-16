@@ -1,5 +1,12 @@
 # Street Fighter Alpha 2 Recomp
 
+> [!IMPORTANT]
+> **This project has moved to [CPS-2 Recomp](https://github.com/tmcleroy/cps2recomp)**, together with the other
+> CPS-2 ports: one download and one launcher for every game, with the settings they share set once for all of
+> them. Street Fighter Alpha 2 is [here](https://github.com/tmcleroy/cps2recomp/tree/main/games/sfa2), and new releases are on
+> [its releases page](https://github.com/tmcleroy/cps2recomp/releases). Your settings, save states and the ROM set
+> you chose carry over. This repository and its releases stay as they were, and get no more changes.
+
 An unofficial native PC port of the arcade game *Street Fighter Alpha 2* (Capcom, 1996, CPS-2 board) for
 macOS, Linux (Steam Deck included) and Windows, made by static recompilation, with a full training mode:
 the one thing no release of this game has ever had.
